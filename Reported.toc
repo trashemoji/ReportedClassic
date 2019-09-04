@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: Reported
+## Notes: Fixed for Classic by Bronzong - All credit to Sneep for the original.
+## Author: Krakyn
+## Version: 1.13.2
+## SavedVariables: ReportedDB
+
+Reported.xml

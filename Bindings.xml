@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding name="REPORTEDTOGGLEUI" category="Reported!">
+    Reported.ToggleUI()
+  </Binding>
+  <Binding name="REPORTEDTOGGLEFILTER" category="Reported!">
+    Reported.ToggleFilters()
+  </Binding>
+  </Bindings>

@@ -1,0 +1,191 @@
+Reported! Orginally made by weasel then taken by Sneep who changed pretty much everything.	
+	
+Changelog	
+ v0.01: 	
+	First release.
+ v0.02: 	
+	"Added ""slabs"" too it's own filter, idea by RePo."
+ v0.03 	
+	Added timer function to avoid possible spam reports.
+ v0.04 	
+	"Updated to only monitor Trade/General and Battleground channels, leaving private channels unmonitored."
+	Also added a %name reported! to the chat frame message.
+ v0.05 	
+	Small update to fix the %name variable not working correctly.
+ v0.06437 	
+	"Sneep takes over, jumps a lot of version numbers."
+ v0.06438 	
+	Added /say and /yell events to monitor
+	removed slabs.
+ v0.06439 	
+	"No idea, it's a ghooOOooOOoost version"
+ v0.06440	
+	Added whisper and personal name modules
+ v0.06441	
+	Fixed for 3.0
+ v0.06442 	
+	Added a version check for Goon Squad and Eli's report message
+ v0.06443 	
+	Another ghost version
+ v0.06444 	
+	Made the timer longer by 5 seconds
+ v0.06445 	
+	A GHOST
+ v0.06446 	
+	"Added tear bucket, harry potter module"
+ v0.06447 	
+	Added more harry potter lines
+	added minor things to version check
+ v0.06448 	
+	Fixed and error and added even more harry potter
+ v0.06449 	
+	Added McCain module
+ v0.06450 	
+	Added Lich King module
+ v0.06451 	
+	No idea
+ v0.06502 	
+	I skipped a bunch of versions due to a mistype
+ v0.06503 	
+	Reworked /reported entirely
+ v0.06504 	
+	Fixed the timer
+ v0.06505 	
+	Added House module
+ v0.06506 	
+	"Added Duke Nukem, Bible, and Obama. "
+	Now compares your version to others on login.
+ v0.06507 	
+	Fixed the new modules
+ v0.06508 	
+	Added reported history
+	chat channel toggle
+	auto-whisper reported response
+ v0.06509 	
+	Added pro gamer module
+	fixed self reporting bug.
+ v0.06510 	
+	"Added Gandalf, and hanna barbara module"
+	fixed harvest text
+ v1.0 	
+	Improved on harvesting colors
+	added versions to harvest
+	"added Iran, and Self-censor module"
+	cleaned up global variables
+	Now 1000 lines.
+ v1.09112001 	
+	Made adding modules easier
+	added Troops module
+ v1.1 	
+	Added current location to harvest
+	added ability to enable/dissable multiple modules at once
+	added player names list to tearbucket
+	added Star Trek module
+ v1.2 	
+	Updated for patch 3.2
+	added Freeper module
+	cleaned up code
+	unlocked sneep-restricted guild modules.
+ v2.0 	
+	Rewrote everything. Literally.
+	Removed all commands that used CHAT_MSG_ADDON
+	also added comments explaining everything so newbie coders can read this.
+ v2.1 	
+	Added party and raid channel toggles
+	made the numbered channel option more exact
+	added last 10
+	made saved variables far easier to change and made adding modules only 2 steps(you don't even need to exit wow!)
+ v2.2 	
+	/reported recent now gives channel
+	fixed last recent message not being changed
+	"added king of the hill, the beatles, the waterboy, john wayne, bsg, lady gaga, twilight, power rangers, and pokemon modules"
+	"added 'fake' report function, cleaned up swear word list"
+	moved all channel toggles to /reported channels tree
+	added /reported a as /reported toggle shorthand
+	changed ADDON_LOADED code to go through the .channel table (makes it automatically add party and raid)
+	made everything that prints modules or channels in alphabetical order
+ v2.2.1 	
+	Fixed various printing bugs
+	added achievement module
+ v2.2.2 	
+	Changed /reported report command in command table to stop them from interfering with eachother
+	added error for missing player name in /reported report
+	fixed /reported channels numbered
+	added Ghostcrawler module
+ v2.2.3 	
+	Added Dad module
+	fixed another /reported report error (not fully fixed yet)
+	added 'shit' back to swear list (will pattern match it later on)
+ v2.2.4 	
+	Made the version variable take version number from .toc file
+	added troll module
+	added delay function (/reported delay [seconds])
+	reported now notifys you when a new module is added.
+ v2.2.5 	
+	"Added Normal, Shakespeare, NBA Jam, Dictionary, Barkley Gaiden, Terms of Use, m8, Bosses, and Spoiler modules."
+ v2.2.6 	
+	Fixed a few indentation errors
+	made it so ADDON_LOADED goes off only once
+	changed Delay to a range
+	added a option to not allow reports while afk.
+ v3.0 	
+	Moved changelog to its own file
+	Added new function to replace == On and else lines in the command function
+	Made comparing global to default table a billion times faster
+	Made the getmoduleline thing return instead of set a local (it's faster okay)
+	Moved nearly everything module related to its own LUA file.
+	Changed table.getn to # (deprecation)
+	Changed all table.'s to their shorter version
+	changed all string.'s to their shorter version
+	"Added Sportscaster, Neckbeard, and Rapture modules"
+ v3.0.1	
+	Fixed bug where you couldn't send a message. Welp.
+ v4.0	
+	Cataclysm/Patch 4.0.1 ready
+	Redid slash command system
+	Server names really are removed this time
+ v4.0.1	
+	Fixed some slash command bugs
+	
+ v4.0.2	
+	UPDATED TO THE YEAR OF  OUR LORD 2013-kjerring@Mal'Ganis
+
+ v4.0.3 
+	Fixed retarded shit because I don't know LUA
+
+ v4.0.4 
+	Added some nasty triggerwords suggested by rude goons
+
+ v4.0.5
+	Asshole times two. Bug fixed m8
+
+ v4.0.6
+	Refactored triggerlist, fixed syntax, bug fixes
+
+ v4.0.7
+	Yay Krakyn made good modules. Bug Fixes Men
+
+ v4.0.8
+	Added ReportedLineSuffix variable early on in Reported.lua for easy catchphrase/hashtag addition
+	Added "namefilter" option in-game to remove server names from player names
+	Did you know that there was broken code to stop Reported in trade chat? Not anymore!
+	Self reporting is fixed
+	
+ v4.0.9
+	Added GamerCulture module
+  
+ v6.2.4 [Krakyn]
+	- Added Option Panel with fancy buttons and sliders for controlling addon behavior
+	- Matching patterns that will pick up words with purposely inserted spaces/extra letters
+	- Rewritten to make use of current API features and generally run better on laptops.
+ v6.2.4-r5 [Krakyn]
+	- Various pattern expression corrections.
+	- Added some version checking to ensure dictionary updates are rolled out. This will cause a chat message to appear once.
+ 
+ v6.2.4-r6 [Krakyn]
+  - Fixed slash command's "toggle" keyword.
+  - Added "Key Bindings" entries for toggling triggers and the option panel.
+
+ v7.0.3 [Krakyn]
+  - Legion TOC
+  - spic match string
