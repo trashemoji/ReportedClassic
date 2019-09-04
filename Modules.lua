@@ -42,17 +42,6 @@ addon.moduleText["Harry_Potter"] = {
 		"Gran says I shouldn't swear and neither should you %Pl - nelville longbottom 1998",
 		"yous a wizard harry one thing we dont take kindly to at hogwarts is bad language, we suspended %pl for his bad language buuuuurp- hagrid 1992"
 }
-addon.moduleText["McCain"] = {
-		["Description"] = "John McCain '08",
-		"John mccain does not support the word %Pl said. Vote John McCain for '08.",
-		"Coldest state, hottest governor. But not as hot as %Pl's dirty words! Reported! McCain/Palin 08",
-		"%Pl's dirty words echo in the chamber of John mccain's tiger cage. mccain for president '08.",
-		"John McCain didn't spend five years in a tiger cage for %Pl to say such horrible things. McCain 08",
-		"A true patriot never curses. A true patriot votes for John mccain. It is your duty, %Pl, to vote McCain in 08.",
-		"Don't make me waterboard that mouth out with soap, %Pl" ..". I really don't want to. Vote McCain in 08.",
-		"%Pl, would you care to null your sins by delivering bottled hot water to dehydrated babies?  Vote John McCain in 08.",
-		"Obama has cursed %c times in Congress. mccain has never used such word, like %Pl should. Vote McCain for President."
-}
 addon.moduleText["Lich_King"] = {
 		["Description"] = "Crappy Lich King quotes",
 		"%Pl, justice has come for your words!",
@@ -90,15 +79,6 @@ addon.moduleText["Chief"] = {
 		"whoa %pl take it down a level chief",
 		"hey %pl don't burst my bubble chief"
 }
-addon.moduleText["House"] = {
-		["Description"] = "Dr. griGory House MD.",
-		"HEY WILSON DID YOU HEAR %PL JUST CUSS?GOOD TIMES- HOUSE 2007",
-		"when im not looking at Cuddy's butt i'm reporting %pl for cussing -house 2006",
-		"hey chase do you say words like %pl just said in england???- grigory g. house md 2008",
-		"i pop vicodin pills like i report %pl for cursing - dr house 2004",
-		"I'M IN SO MUCH PAIN I NEED VICODIN I'M NOT ADDICTED! %PL'S WORDS REALLY HURT - DR GERGORY HOUSE",
-		"IT'S NOT LUPUS YOU IDIOT IT'S %PL'S BAD WORDS - house 2005"
-}
 addon.moduleText["Bible"] = {
 		["Description"] = "Bible shit",
 		"HEY %PL YOU CAN'T CUSS IT'S IN THE 10 COMMANDMENTS RIGHT UNDER THE RIGHT TO BARE ARMS",
@@ -117,15 +97,6 @@ addon.moduleText["Duke_Nukem"] = {
 		"hey %Pl you sure got balls of steel to say that in here",
 		"%Pl what are you? Some bottom-feeding, scum sucking algae eater?  It sure seems that way from the words you use!",
 		"Darn, that's the second time %Pl shot up my chat!"
-}
-addon.moduleText["Obama"] = {
-		["Description"] = "Obama is horrible",
-		"first a black president and now CURSING IN VIDEOGAMES?  clean it up %pl",
-		"i guess %pl's language is the CHANGE obama is supposed to bring",
-		"obama being a secret terrorist pales in comparison to %pl terrorizing words",
-		"michelee obama's long legs are shorter than %pl's list of bad words he's used!",
-		"hey %pl you must feel pretty elitist for saying those words. Almost elitist as obama and his dijon mustard.",
-		"the obamas need a trainer for their dog. %pl needs a trainer for his mouth"
 }
 addon.moduleText["Pro_Gamer"] = {
 		["Description"] = "Pro Gaming is awesome",
@@ -171,17 +142,6 @@ addon.moduleText["Hanna_Barbara"] = {
 		"watch this scoob, i reported a noob!  See ya later %pl!",
 		"the great gazoo has come through time to report you to the proper authorities %Pl",
 		"Aww, aren't %Pl's bad words cute? BUT IT'S WRONG"
-}
-addon.moduleText["Iran"] = {
-		["Description"] = "Made when Iran announced(again) their nuclear program",
-		"isreal sux, america sux, %Pl sux. - mahmoud ahmendinajad",
-		"heh we aren't enriching uranium to make power, we're doing it to nuke %Pl because he swears - Iran 2009",
-		"Dear %Pl, you are now an enemy of Iran for swearing!  Grats yall - Ayattolah Khomeini 2009",
-		"u pig american %Pl how dare u swear. iran owns. you suck. - ahmedinejad, prez of iran",
-		"israel is no longer a problem but %Pl is!  iran will not tolerate such language",
-		"yeah we rig elections but it seems that israel has rigged %Pl's mouth!  this is horrible",
-		"next time in america %Pl i'm coming to your house and im going to yell at you for swearing",
-		"everyime an american pig dog swears like %Pl just did we build another centrifuge. thx for all the enriched uranium!"
 }
 addon.moduleText["Self_Censor"] = {
 		["Description"] = "Good thing you caught yourself swearing!",
@@ -237,16 +197,6 @@ addon.moduleText["Star_Trek"] = {
 		"%pl you were supposed to experience fear while taking the Kobayashi Maru test, not curse!!",
 		"Those who swear have no honor, and will never bed a fine woman like Jadzia - Worf, 24th Century"
 }
-addon.moduleText["Freeper"] = {
-		["Description"] = "Free Republic is my favorite forum",
-		"americans dont cuss like that %pl. where's your birth certificate?",
-		"luckily for %pl he wont even be able to go infront of obamas death panel after he's been through my cuss panel.",
-		"watch out %pl obamas brown shirts are coming after you for swearing!",
-		"obama = communist, pelosi = socialist, %pl = swearist.",
-		"health care reform? how about i reform %pl's mouth!",
-		"why doesn't %pl go to canada where his socialist mouth will be accepted just like their healthcare?",
-		"i'm having a tea party at the capital and %pl isn't invited",
-}
 addon.moduleText["Healthcare"] = {
 		["Description"] = "I hate government in anything",
 		"Just like I'd vote NO to universal healthcare, I say NO to %Pl's swearing.",
@@ -257,24 +207,6 @@ addon.moduleText["Healthcare"] = {
 		"IM 72 YEARS OLD AND I WAN'T GOVERNMENT OUT OF MY MEDICARE AND FOR %PL TO STOP CUSSING",
 		"Candians have to wait 2 years just to get a flu shot I don't want that to happen to america but if these miscreants like %Pl keep swearing it might just happen!",
 		"What do the Europeon Union, Britain, Canada, and %Pl have in common?  They're all commies and cuss a lot.  Say no to healthcare reform.  Impeach now."
-}
-addon.moduleText["Glenn_Beck"] = {
-		["Description"] = "Anti-Obama",
-		"Hey %Pl I'm trying to watch gleen beck, stop cussing and go back to praising your false president",
-		"Glenn Beck says the revolution is coming...and i think i see why (%pl)",
-		"only commies say that %pl are you a commie???",
-		"%Pl's sentences are as horrible as President Oboneheads policies are",
-		"i think %pl is reading off of barrack obama's teleprompter because his words are horrible!!!",
-		"%PL MUST BE A DEMONCRAT BECAUSE HE SAYS WORD ONLY THE DEVIL (and barack obama) WOULD SAY"
-}
-addon.moduleText["Sarah_Palin"] = {
-		["Description"] = "Sarah Palin is our next president",
-		"Sarah Palin did not resign as Governor of Alaska for %Pl to just waltz around and swear! Sarah Palin 2012.",
-		"Sarah Palin will soon know another supreme court case...it will be United States v. %Pl. Quit cussing, vote Palin '12",
-		"%Pl speaks like he's been palin around with terroists. You know who doesn't pal' around? Sarah Palin. Vote4Her in 2012.",
-		"Not only can Sarah Palin see Russia from her house, she can also get really angry and punch %Pl in the face for cussing. Vote for her in 2012",
-		"If you vote for sarah palin in 2012 you must believe in family values. %Pl obviously does not have a family because they would have shut him up long ago.",
-		"Hey %Pl did you forget about Country First?? Clean up your act and vote for Sarah Palin in 2012."
 }
 addon.moduleText['King of the Hill'] = {
 		["Description"] = "I got that foul mouthed person banned, I tell you what!   ",
@@ -345,22 +277,6 @@ addon.moduleText["Battlestar_Galactica"] = {
 		"Only a fraking skinjob would swear like that, %Pl",
 		"I don't need a Cylon detecter to know that %Pl is using bad words",
 }
-addon.moduleText["Lady_Gaga"] = {
-		["Description"] = "The Queen of Pop, not the Queen of Swearing.",
-    ["Credit"] = "Internet Wizard's friend",
-		"i can see your poker face %pl but i dont want to hear those swear words !!!",
-		"lady gaga might have a bad romance but %pl has really bad language!!",
-		"lady gaga is totally crazy but she never says the words %pl just did",
-		"lady gaga doesn't have a bulge in her pants but %pl sure has a dirty mouth! reported.",
-}
-addon.moduleText["Twilight"] = {
-    ["Description"] = "Vampires hate cussing.",
-    ["Credit"] = "Internet Wizard",
-		"If Bella had been cussing like %Pl I'd have left her in the forest where Edward abandoned her - Sam Uley 2009",
-		"Bella wouldn't smell half as delicious if she had a mouth as dirty as %Pl's - Edward Cullen 2008",
-		"I'm reporting you to the Volturi for breaking the vampire law against cussing %Pl!",
-		"If Bella swore like %Pl I'd have just let James kill her - Edward Cullen 2008",
-}
 addon.moduleText["Power_Rangers"] = {
     ["Description"] = "Go go power rangers, combine to make Optimus Prime!",
     ["Credit"] = "Internet Wizard's friends and some from Sneep",
@@ -394,15 +310,6 @@ addon.moduleText["Achievements"] = {
 		"%Pl has earned the achievement [Where Did You Learn That Language?]!",
 		"%Pl has earned the achievement [Did Your Father Teach You That Word?]!",
 		"%Pl has earned the achievement [Reported!]!",
-}
-addon.moduleText["GC"] = {
-    ["Description"] = "Ghostcrawler hates you.",
-    ["Credit"] = "Sacro",
-		"%Pl's foul language does nothing to make up for the fact that her guild isn't 5% worse than a real guild. It's hundreds of percentage points worse. -Ghostcrawler 09",
-		"%Pl wouldn't detect a 5% buff. He'd do better remembering he has a pulse and not swearing. -Ghostcrawler 1984",
-		"%Pl's guild would benefit by swapping him out with another mage. -Ghastcaller 2010",
-		"%Pl is interepreting the meters wrong. Swearing doesn't get you more DPS. -Ghrostcawler",
-		"%Pl's bad words are the reason heroic strike is fine. -GC",
 }
 addon.moduleText["Dad"] = {
     ["Description"] = "[DAD] Dad mod: For dads. (dad) - Concept by Badfinger. Thanks to Mostly Talid and me",
@@ -607,19 +514,6 @@ addon.moduleText["Neckbeard"] = {
 		"Your swearing %Pl is about as funny as LOLcats",
 		"%Pl's swearing is even scarier then spiders, sink holes, and the ocean combined",
 }
-addon.moduleText["Rapture"] = {
-		["Description"] = "It's like bioshock right???",
-    ["Credit"] = "Stubby",
-		"Be careful, %Pl, you won't be raptured using language like that!",
-		"Jesus said that what goes into a man's mouth does not defile him, but what comes out of it. He must have forseen %Pl's language!",
-		"There were 88 reasons the Rapture should have happened in 1988... there must be %c reasons why it will happen soon, and %Pl's language is one of them!",
-		"During the Great Tribulation, you and the other sinners can swear all you want, %Pl, but it's against the Blizzard TOS.",
-		"We need to ban abortion, homosexual behavior, drugs, and words like the ones %Pl uses. It's written in the Bible!",
-		"Only God knows the day and hour of the Rapture, and only Blizzard knows the day and hour of %Pl's Rapture (banning) from World of Warcraft!",
-		"In the last days 144,000 unsaved virgins will come to Christ, %Pl. Are you one of those virgins?",
-		"The chances that evolution can happen are %c to 1. Good thing Blizzard intelligently designed the reporting system, so there is a 100% chance that %Pl will be banned.",
-		"During the Great White Throne judgment, God will condemn people with filthy language like %Pl's to an eternity in a lake of fire, along with liberals and non-Christians.",
-}
 addon.moduleText["Riko"] = {
 		["Description"] = "Riko no like swearing.",
     ["Credit"] = "Krakyn",
@@ -639,15 +533,6 @@ addon.moduleText["Riko"] = {
 		"What the ook is wrong with %Pl's mouth? He's jeekin' swearing in WoW. -Riko #stopcussing #YOLO",
 		"I don't care about %Pl's weird dead face, but he has to stop swearing in WoW. -Riko #stopcussing #YOLO",
 		"Come at me you brukkers, Riko going to report all of your ookin' swearing, starting with %Pl. #stopcussing #YOLO"
-}
-addon.moduleText["Zimmerman"] = {
-		["Description"] = "George Zimmerman is standing his ground against naughty language.",
-    ["Credit"] = "Krakyn",
-		"I stood my ground against %Pl's bad words and reported him. -Gorge Zimmarmen #YOLO #stopcussing",
-		"I got away with murder, but %Pl can't get away with swearing in WoW. -Gorge Zimmarmen #YOLO #stopcussing",
-		"Swearing? In my gated community? %Pl, stand down or get reported. -Gorge Zimmarmen #YOLO #stopcussing",
-		"Even though I carry a rack of concealed weapons and abuse my wife, I still don't curse in WoW like %Pl -Gorge Zimarmen #YOLO #stopcussing",
-		"I didn't shoot Trayvon so you could freely curse in my neighborhood, %Pl! -Gorge Zimarmen #YOLO #stopcussing"
 }
 addon.moduleText["Thrallmar"] = {
 		["Description"] = "Save Thrallmar from curse words.",
